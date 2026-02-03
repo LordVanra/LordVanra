@@ -78,4 +78,4 @@ Includes code autonomous routines, PID control, odometry, and computer vision.
 
 Computational Mathematics, Simulation, Applied Mathematics, Physics-Based Systems, Robotics Software, and, Competitive Programming.
 
-[![GitHub Metrics](https://github.com/LordVanra/LordVanra/blob/main/github-metrics.svg)
+![GitHub Metrics](https://github.com/LordVanra/LordVanra/blob/main/github-metrics.svg)
