@@ -77,3 +77,5 @@ Includes code autonomous routines, PID control, odometry, and computer vision.
 ## Interests
 
 Computational Mathematics, Simulation, Applied Mathematics, Physics-Based Systems, Robotics Software, and, Competitive Programming.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVanra)](https://github.com/anuraghazra/github-readme-stats)
