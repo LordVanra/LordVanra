@@ -34,6 +34,10 @@ I’m currently a student at **Mass Academy.**
   https://github.com/LordVanra/Kriegsspeil  
   Strategy game project similar to risk built with Unity and C#.
 
+- **Filesystem Encryptor:**  
+  https://github.com/LordVanra/FilesystemEncryptor
+  System that encrypts all your files using RSA and tries to extract computer information that I used to explore how computers actually work.
+
 ---
 
 ### Robotics Code
