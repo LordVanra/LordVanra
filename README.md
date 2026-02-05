@@ -4,8 +4,6 @@ Hi, I’m **Arnav Prabhudesai**. I am a student developer with a strong interest
 
 I’m currently a student at **Mass Academy.**
 
----
-
 ## Programming Languages & Tools
 
 - **Python**
@@ -15,9 +13,9 @@ I’m currently a student at **Mass Academy.**
 - **C# (Unity)**
 - **HTML / CSS / JavaScript**
 - **Scratch**
-- Arduino, Android Studio, OpenCV, PID control, robotics frameworks
-
----
+- **Arduino**
+- **OpenCV**
+- **WPILib**
 
 ## Featured Projects & Repositories
 
@@ -38,8 +36,6 @@ I’m currently a student at **Mass Academy.**
   https://github.com/LordVanra/FilesystemEncryptor
   System that encrypts all your files using RSA and tries to extract computer information that I used to explore how computers actually work.
 
----
-
 ### Robotics Code
 
 - **FRC Robot Code:**  
@@ -50,8 +46,6 @@ I’m currently a student at **Mass Academy.**
   - https://github.com/WAGhostRobotics/PhantomsCenterStage  
 
 Includes code autonomous routines, PID control, odometry, and computer vision.
-
----
 
 ### Web & Creative Projects
 
@@ -67,8 +61,6 @@ Includes code autonomous routines, PID control, odometry, and computer vision.
 - **Scratch Project:**  
   https://scratch.mit.edu/projects/603644927/
 
----
-
 ## Leadership & Teaching
 
 - FTC Robotics Team Captain  
@@ -76,10 +68,33 @@ Includes code autonomous routines, PID control, odometry, and computer vision.
 - Lead Instructor for robotics summer camps that taught Arduino and FTC robotics  
 - Math competition teaching assistant
 
----
+## Computer
+
+### IDEs
+- VS Code
+- Unity
+- Android Studio
+
+### Operating Systems
+- Windows 11
+- Fedora 43 with KDE Plasma
+- Arch Linux with Hyprland
+
+### Browsers
+- Brave
+- Vivaldi
+- Google Chrome
+
+### Specs
+- 13th Gen Intel i7-13620H
+- 32 GB of DDR5 Ram
+- 1 TB M.2 NVMe
+- NVIDIA RTX 4050 Laptop GPU
 
 ## Interests
 
 Computational Mathematics, Simulation, Applied Mathematics, Physics-Based Systems, Robotics Software, and, Competitive Programming.
+
+## Github Metrics
 
 ![GitHub Metrics](https://github.com/LordVanra/LordVanra/blob/main/github-metrics.svg)
