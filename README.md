@@ -28,6 +28,10 @@ I’m currently a student at **Mass Academy.**
   https://github.com/HugeAJTheBoss/EpidemicSimulationSandbox  
   MATLAB-based epidemic spread simulator with a NodeJS backend and React Frontend.
 
+- **Sandpiles:**  
+  https://github.com/LordVanra/Sandpiles
+  Simulator for mathematical sandpiles
+
 - **Kriegsspiel:**  
   https://github.com/LordVanra/Kriegsspeil  
   Strategy game project similar to risk built with Unity and C#.
@@ -39,13 +43,18 @@ I’m currently a student at **Mass Academy.**
 ### Robotics Code
 
 - **FRC Robot Code:**  
-  https://github.com/Team-190/2k25-Robot-Code/tree/feature-v3
+  https://github.com/Team-190/2k25-Robot-Code/
 
 - **FTC Robot Code:**  
   - https://github.com/WAGhostRobotics/PhantomsIntoTheDeep  
   - https://github.com/WAGhostRobotics/PhantomsCenterStage  
 
 Includes code autonomous routines, PID control, odometry, and computer vision.
+
+- **Drone Mapper:**  
+  https://github.com/LordVanra/AutonomousMultirotorMapper
+
+Code for an AirSim and Tello drone with the capability to autonomously map roads. 2026 Science and Engineering Fair Project.
 
 ### Web & Creative Projects
 
